@@ -1,2 +1,2 @@
 # ohjelmistotestaus2021
-OSAO Ohjelmistotestauksen valmennuskurssi
+OSAO Ohjelmistotestauksen valmennuskurssi 2021
